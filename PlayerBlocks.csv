@@ -1,0 +1,18 @@
+,id,commence_time,home_team,away_team,Player Name,point,over price,under price
+0,8371571bb6059f03debc55b594422565,2024-11-27 00:00:00+00:00,Washington Wizards,Chicago Bulls,Alex Sarr,1.5,1.7000000000000002,2.12
+1,979282582fedc5d942f4f0f2f22763ee,2024-11-27 00:30:00+00:00,Miami Heat,Milwaukee Bucks,Brook Lopez,2.5,2.48,1.52
+2,312350cf1c97873d6cb81224bac3873e,2024-11-27 01:00:00+00:00,Minnesota Timberwolves,Houston Rockets,Rudy Gobert,1.5,1.6099999999999999,2.2800000000000002
+3,0a3002d2aaa7b94c5c9c4d3bf792ac7d,2024-11-27 02:00:00+00:00,Utah Jazz,San Antonio Spurs,Walker Kessler,2.5,2.12,1.7000000000000002
+4,0a3002d2aaa7b94c5c9c4d3bf792ac7d,2024-11-27 02:00:00+00:00,Utah Jazz,San Antonio Spurs,Victor Wembanyama,3.5,1.9300000000000002,1.85
+5,0ae85f4502bca2d13e62d2e35c94744c,2024-11-27 03:00:00+00:00,Phoenix Suns,Los Angeles Lakers,Walker Kessler,2.5,2.12,1.7000000000000002
+6,0ae85f4502bca2d13e62d2e35c94744c,2024-11-27 03:00:00+00:00,Phoenix Suns,Los Angeles Lakers,Victor Wembanyama,3.5,1.9300000000000002,1.85
+7,973a6ea86af7d9e2bf4c52509822f5bf,2024-12-25 17:00:00+00:00,New York Knicks,San Antonio Spurs,Walker Kessler,2.5,2.12,1.7000000000000002
+8,973a6ea86af7d9e2bf4c52509822f5bf,2024-12-25 17:00:00+00:00,New York Knicks,San Antonio Spurs,Victor Wembanyama,3.5,1.9300000000000002,1.85
+9,07a07eaa8f786d68cb371107f36f5b33,2024-12-25 19:30:00+00:00,Dallas Mavericks,Minnesota Timberwolves,Walker Kessler,2.5,2.12,1.7000000000000002
+10,07a07eaa8f786d68cb371107f36f5b33,2024-12-25 19:30:00+00:00,Dallas Mavericks,Minnesota Timberwolves,Victor Wembanyama,3.5,1.9300000000000002,1.85
+11,6f66bc2154fb45b2047e1c1c5afcdc38,2024-12-25 22:00:00+00:00,Boston Celtics,Philadelphia 76ers,Walker Kessler,2.5,2.12,1.7000000000000002
+12,6f66bc2154fb45b2047e1c1c5afcdc38,2024-12-25 22:00:00+00:00,Boston Celtics,Philadelphia 76ers,Victor Wembanyama,3.5,1.9300000000000002,1.85
+13,bc6f994bad539db5054c8b750c437fb8,2024-12-26 01:00:00+00:00,Golden State Warriors,Los Angeles Lakers,Walker Kessler,2.5,2.12,1.7000000000000002
+14,bc6f994bad539db5054c8b750c437fb8,2024-12-26 01:00:00+00:00,Golden State Warriors,Los Angeles Lakers,Victor Wembanyama,3.5,1.9300000000000002,1.85
+15,22a9b650e64ca15cb0c83dc0148a571e,2024-12-26 03:30:00+00:00,Phoenix Suns,Denver Nuggets,Walker Kessler,2.5,2.12,1.7000000000000002
+16,22a9b650e64ca15cb0c83dc0148a571e,2024-12-26 03:30:00+00:00,Phoenix Suns,Denver Nuggets,Victor Wembanyama,3.5,1.9300000000000002,1.85
