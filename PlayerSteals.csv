@@ -1,0 +1,29 @@
+,id,commence_time,home_team,away_team,Player Name,point,over price,under price
+0,8371571bb6059f03debc55b594422565,2024-11-27 00:00:00+00:00,Washington Wizards,Chicago Bulls,Jordan Poole,1.5,2.5,1.52
+1,8371571bb6059f03debc55b594422565,2024-11-27 00:00:00+00:00,Washington Wizards,Chicago Bulls,Bilal Coulibaly,1.5,2.4,1.56
+2,979282582fedc5d942f4f0f2f22763ee,2024-11-27 00:30:00+00:00,Miami Heat,Milwaukee Bucks,Jordan Poole,1.5,2.5,1.52
+3,979282582fedc5d942f4f0f2f22763ee,2024-11-27 00:30:00+00:00,Miami Heat,Milwaukee Bucks,Bilal Coulibaly,1.5,2.4,1.56
+4,312350cf1c97873d6cb81224bac3873e,2024-11-27 01:00:00+00:00,Minnesota Timberwolves,Houston Rockets,Mike Conley,1.5,2.54,1.5
+5,312350cf1c97873d6cb81224bac3873e,2024-11-27 01:00:00+00:00,Minnesota Timberwolves,Houston Rockets,Fred VanVleet,1.5,1.96,1.82
+6,312350cf1c97873d6cb81224bac3873e,2024-11-27 01:00:00+00:00,Minnesota Timberwolves,Houston Rockets,Jaden McDaniels,1.5,2.52,1.51
+7,0a3002d2aaa7b94c5c9c4d3bf792ac7d,2024-11-27 02:00:00+00:00,Utah Jazz,San Antonio Spurs,Collin Sexton,1.5,3.0,1.38
+8,0a3002d2aaa7b94c5c9c4d3bf792ac7d,2024-11-27 02:00:00+00:00,Utah Jazz,San Antonio Spurs,Chris Paul,1.5,1.96,1.82
+9,0a3002d2aaa7b94c5c9c4d3bf792ac7d,2024-11-27 02:00:00+00:00,Utah Jazz,San Antonio Spurs,Victor Wembanyama,1.5,2.58,1.49
+10,0ae85f4502bca2d13e62d2e35c94744c,2024-11-27 03:00:00+00:00,Phoenix Suns,Los Angeles Lakers,Collin Sexton,1.5,3.0,1.38
+11,0ae85f4502bca2d13e62d2e35c94744c,2024-11-27 03:00:00+00:00,Phoenix Suns,Los Angeles Lakers,Chris Paul,1.5,1.96,1.82
+12,0ae85f4502bca2d13e62d2e35c94744c,2024-11-27 03:00:00+00:00,Phoenix Suns,Los Angeles Lakers,Victor Wembanyama,1.5,2.58,1.49
+13,973a6ea86af7d9e2bf4c52509822f5bf,2024-12-25 17:00:00+00:00,New York Knicks,San Antonio Spurs,Collin Sexton,1.5,3.0,1.38
+14,973a6ea86af7d9e2bf4c52509822f5bf,2024-12-25 17:00:00+00:00,New York Knicks,San Antonio Spurs,Chris Paul,1.5,1.96,1.82
+15,973a6ea86af7d9e2bf4c52509822f5bf,2024-12-25 17:00:00+00:00,New York Knicks,San Antonio Spurs,Victor Wembanyama,1.5,2.58,1.49
+16,07a07eaa8f786d68cb371107f36f5b33,2024-12-25 19:30:00+00:00,Dallas Mavericks,Minnesota Timberwolves,Collin Sexton,1.5,3.0,1.38
+17,07a07eaa8f786d68cb371107f36f5b33,2024-12-25 19:30:00+00:00,Dallas Mavericks,Minnesota Timberwolves,Chris Paul,1.5,1.96,1.82
+18,07a07eaa8f786d68cb371107f36f5b33,2024-12-25 19:30:00+00:00,Dallas Mavericks,Minnesota Timberwolves,Victor Wembanyama,1.5,2.58,1.49
+19,6f66bc2154fb45b2047e1c1c5afcdc38,2024-12-25 22:00:00+00:00,Boston Celtics,Philadelphia 76ers,Collin Sexton,1.5,3.0,1.38
+20,6f66bc2154fb45b2047e1c1c5afcdc38,2024-12-25 22:00:00+00:00,Boston Celtics,Philadelphia 76ers,Chris Paul,1.5,1.96,1.82
+21,6f66bc2154fb45b2047e1c1c5afcdc38,2024-12-25 22:00:00+00:00,Boston Celtics,Philadelphia 76ers,Victor Wembanyama,1.5,2.58,1.49
+22,bc6f994bad539db5054c8b750c437fb8,2024-12-26 01:00:00+00:00,Golden State Warriors,Los Angeles Lakers,Collin Sexton,1.5,3.0,1.38
+23,bc6f994bad539db5054c8b750c437fb8,2024-12-26 01:00:00+00:00,Golden State Warriors,Los Angeles Lakers,Chris Paul,1.5,1.96,1.82
+24,bc6f994bad539db5054c8b750c437fb8,2024-12-26 01:00:00+00:00,Golden State Warriors,Los Angeles Lakers,Victor Wembanyama,1.5,2.58,1.49
+25,22a9b650e64ca15cb0c83dc0148a571e,2024-12-26 03:30:00+00:00,Phoenix Suns,Denver Nuggets,Collin Sexton,1.5,3.0,1.38
+26,22a9b650e64ca15cb0c83dc0148a571e,2024-12-26 03:30:00+00:00,Phoenix Suns,Denver Nuggets,Chris Paul,1.5,1.96,1.82
+27,22a9b650e64ca15cb0c83dc0148a571e,2024-12-26 03:30:00+00:00,Phoenix Suns,Denver Nuggets,Victor Wembanyama,1.5,2.58,1.49
