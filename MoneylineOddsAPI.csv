@@ -6,7 +6,7 @@
 4,640b97f9acd0a423b80942157388230e,basketball_nba,NBA,2024-11-26 00:30:00+00:00,Boston Celtics,Los Angeles Clippers,1.23,4.4
 5,6962b115d0e0a3d42ab6d7edf72a820f,basketball_nba,NBA,2024-11-26 01:00:00+00:00,Memphis Grizzlies,Portland Trail Blazers,1.22,4.5
 6,4548309c59e38d9bb091bde61ea421dc,basketball_nba,NBA,2024-11-26 02:00:00+00:00,Denver Nuggets,New York Knicks,1.56,2.5
-7,787144f993e9c92a0ee844b8f204f702,basketball_nba,NBA,2024-11-26 03:00:00+00:00,Golden State Warriors,Brooklyn Nets,1.1400000000000001,6.0
+7,787144f993e9c92a0ee844b8f204f702,basketball_nba,NBA,2024-11-26 03:00:00+00:00,Golden State Warriors,Brooklyn Nets,1.14,6.0
 8,a5a334c286280111c77ec6ea1d8fc8b9,basketball_nba,NBA,2024-11-26 03:00:00+00:00,Sacramento Kings,Oklahoma City Thunder,2.68,1.5
 9,8371571bb6059f03debc55b594422565,basketball_nba,NBA,2024-11-27 00:00:00+00:00,Washington Wizards,Chicago Bulls,0.0,0.0
 10,979282582fedc5d942f4f0f2f22763ee,basketball_nba,NBA,2024-11-27 00:30:00+00:00,Miami Heat,Milwaukee Bucks,0.0,0.0
@@ -18,3 +18,13 @@
 16,6f66bc2154fb45b2047e1c1c5afcdc38,basketball_nba,NBA,2024-12-25 22:00:00+00:00,Boston Celtics,Philadelphia 76ers,0.0,0.0
 17,bc6f994bad539db5054c8b750c437fb8,basketball_nba,NBA,2024-12-26 01:00:00+00:00,Golden State Warriors,Los Angeles Lakers,0.0,0.0
 18,22a9b650e64ca15cb0c83dc0148a571e,basketball_nba,NBA,2024-12-26 03:30:00+00:00,Phoenix Suns,Denver Nuggets,0.0,0.0
+19,75b64ab4b7b899475e75f3c3fed6e6d6,basketball_nba,NBA,2024-11-29 17:10:00+00:00,Charlotte Hornets,New York Knicks,3.9,1.28
+20,fea39cdef1993115642387a9d17d3aa8,basketball_nba,NBA,2024-11-29 19:40:00+00:00,Atlanta Hawks,Cleveland Cavaliers,3.0,1.4100000000000001
+21,057e5aae2a26f423eaf44d3e6bcab7eb,basketball_nba,NBA,2024-11-29 22:10:00+00:00,Memphis Grizzlies,New Orleans Pelicans,1.22,4.6
+22,9d0591b5528cb94518423d0b98163127,basketball_nba,NBA,2024-11-30 00:40:00+00:00,Brooklyn Nets,Orlando Magic,2.7199999999999998,1.49
+23,505781b2259d8ce45cba4e34aecf5d26,basketball_nba,NBA,2024-11-30 00:40:00+00:00,Minnesota Timberwolves,Los Angeles Clippers,1.43,2.94
+24,97daad0d675ac67ead333551dac221e7,basketball_nba,NBA,2024-11-30 01:10:00+00:00,Chicago Bulls,Boston Celtics,4.4,1.23
+25,962ea9850dad2028b34dc93947a626a7,basketball_nba,NBA,2024-11-30 01:10:00+00:00,Indiana Pacers,Detroit Pistons,1.32,3.5
+26,f3facf03d0bcded5d8f4c868ad2cae58,basketball_nba,NBA,2024-11-30 01:10:00+00:00,Miami Heat,Toronto Raptors,1.34,3.4
+27,363cc300fd430fdf4510ff652bc54ef7,basketball_nba,NBA,2024-11-30 03:10:00+00:00,Los Angeles Lakers,Oklahoma City Thunder,1.9100000000000001,1.94
+28,ced44c7cacce1e7ddc97f529434326b6,basketball_nba,NBA,2024-11-30 03:10:00+00:00,Portland Trail Blazers,Sacramento Kings,2.64,1.51
