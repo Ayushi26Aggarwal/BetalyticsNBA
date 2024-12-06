@@ -1,104 +1,64 @@
 ,id,commence_time,home_team,away_team,Player Name,point,over price,under price
-0,75b64ab4b7b899475e75f3c3fed6e6d6,2024-11-29 17:10:00+00:00,Charlotte Hornets,New York Knicks,Karl-Anthony Towns,26.5,1.88,1.88
-1,75b64ab4b7b899475e75f3c3fed6e6d6,2024-11-29 17:10:00+00:00,Charlotte Hornets,New York Knicks,Jalen Brunson,25.5,2.02,1.77
-2,75b64ab4b7b899475e75f3c3fed6e6d6,2024-11-29 17:10:00+00:00,Charlotte Hornets,New York Knicks,Taj Gibson,3.5,1.78,2.0
-3,75b64ab4b7b899475e75f3c3fed6e6d6,2024-11-29 17:10:00+00:00,Charlotte Hornets,New York Knicks,Josh Green,10.5,1.98,1.8
-4,75b64ab4b7b899475e75f3c3fed6e6d6,2024-11-29 17:10:00+00:00,Charlotte Hornets,New York Knicks,Josh Hart,12.5,2.04,1.76
-5,75b64ab4b7b899475e75f3c3fed6e6d6,2024-11-29 17:10:00+00:00,Charlotte Hornets,New York Knicks,Miles McBride,8.5,1.87,1.9
-6,75b64ab4b7b899475e75f3c3fed6e6d6,2024-11-29 17:10:00+00:00,Charlotte Hornets,New York Knicks,OG Anunoby,18.5,1.94,1.83
-7,75b64ab4b7b899475e75f3c3fed6e6d6,2024-11-29 17:10:00+00:00,Charlotte Hornets,New York Knicks,Brandon Miller,25.5,1.9300000000000002,1.83
-8,75b64ab4b7b899475e75f3c3fed6e6d6,2024-11-29 17:10:00+00:00,Charlotte Hornets,New York Knicks,Mikal Bridges,14.5,1.88,1.88
-9,75b64ab4b7b899475e75f3c3fed6e6d6,2024-11-29 17:10:00+00:00,Charlotte Hornets,New York Knicks,Tidjane Salaun,10.5,1.98,1.8
-10,fea39cdef1993115642387a9d17d3aa8,2024-11-29 19:40:00+00:00,Atlanta Hawks,Cleveland Cavaliers,Donovan Mitchell,27.5,2.0,1.78
-11,fea39cdef1993115642387a9d17d3aa8,2024-11-29 19:40:00+00:00,Atlanta Hawks,Cleveland Cavaliers,Clint Capela,9.5,1.82,1.96
-12,fea39cdef1993115642387a9d17d3aa8,2024-11-29 19:40:00+00:00,Atlanta Hawks,Cleveland Cavaliers,Zaccharie Risacher,7.5,1.82,1.96
-13,fea39cdef1993115642387a9d17d3aa8,2024-11-29 19:40:00+00:00,Atlanta Hawks,Cleveland Cavaliers,Jalen Johnson,19.5,2.02,1.77
-14,fea39cdef1993115642387a9d17d3aa8,2024-11-29 19:40:00+00:00,Atlanta Hawks,Cleveland Cavaliers,Jarrett Allen,14.5,2.0,1.78
-15,fea39cdef1993115642387a9d17d3aa8,2024-11-29 19:40:00+00:00,Atlanta Hawks,Cleveland Cavaliers,Isaac Okoro,7.5,1.88,1.88
-16,fea39cdef1993115642387a9d17d3aa8,2024-11-29 19:40:00+00:00,Atlanta Hawks,Cleveland Cavaliers,Dyson Daniels,11.5,1.8,1.98
-17,fea39cdef1993115642387a9d17d3aa8,2024-11-29 19:40:00+00:00,Atlanta Hawks,Cleveland Cavaliers,De'Andre Hunter,14.5,1.9,1.87
-18,fea39cdef1993115642387a9d17d3aa8,2024-11-29 19:40:00+00:00,Atlanta Hawks,Cleveland Cavaliers,Trae Young,21.5,1.96,1.82
-19,fea39cdef1993115642387a9d17d3aa8,2024-11-29 19:40:00+00:00,Atlanta Hawks,Cleveland Cavaliers,Darius Garland,19.5,1.78,2.0
-20,fea39cdef1993115642387a9d17d3aa8,2024-11-29 19:40:00+00:00,Atlanta Hawks,Cleveland Cavaliers,Evan Mobley,16.5,1.78,2.0
-21,057e5aae2a26f423eaf44d3e6bcab7eb,2024-11-29 22:10:00+00:00,Memphis Grizzlies,New Orleans Pelicans,Desmond Bane,16.5,1.78,2.0
-22,057e5aae2a26f423eaf44d3e6bcab7eb,2024-11-29 22:10:00+00:00,Memphis Grizzlies,New Orleans Pelicans,Jaren Jackson Jr,18.5,1.82,1.96
-23,057e5aae2a26f423eaf44d3e6bcab7eb,2024-11-29 22:10:00+00:00,Memphis Grizzlies,New Orleans Pelicans,Jaylen Wells,9.5,1.8,1.98
-24,057e5aae2a26f423eaf44d3e6bcab7eb,2024-11-29 22:10:00+00:00,Memphis Grizzlies,New Orleans Pelicans,Ja Morant,19.5,1.8,1.98
-25,057e5aae2a26f423eaf44d3e6bcab7eb,2024-11-29 22:10:00+00:00,Memphis Grizzlies,New Orleans Pelicans,Brandon Clarke,8.5,1.85,1.9300000000000002
-26,9d0591b5528cb94518423d0b98163127,2024-11-30 00:40:00+00:00,Brooklyn Nets,Orlando Magic,Kentavious Caldwell-Pope,7.5,1.77,2.02
-27,9d0591b5528cb94518423d0b98163127,2024-11-30 00:40:00+00:00,Brooklyn Nets,Orlando Magic,Dorian Finney-Smith,11.5,2.0,1.78
-28,9d0591b5528cb94518423d0b98163127,2024-11-30 00:40:00+00:00,Brooklyn Nets,Orlando Magic,Jalen Suggs,15.5,1.8,1.98
-29,9d0591b5528cb94518423d0b98163127,2024-11-30 00:40:00+00:00,Brooklyn Nets,Orlando Magic,Franz Wagner,26.5,1.83,1.94
-30,9d0591b5528cb94518423d0b98163127,2024-11-30 00:40:00+00:00,Brooklyn Nets,Orlando Magic,Ben Simmons,6.5,1.77,2.02
-31,9d0591b5528cb94518423d0b98163127,2024-11-30 00:40:00+00:00,Brooklyn Nets,Orlando Magic,Jonathan Isaac,6.5,1.77,2.02
-32,9d0591b5528cb94518423d0b98163127,2024-11-30 00:40:00+00:00,Brooklyn Nets,Orlando Magic,Cameron Johnson,19.5,1.88,1.88
-33,9d0591b5528cb94518423d0b98163127,2024-11-30 00:40:00+00:00,Brooklyn Nets,Orlando Magic,Goga Bitadze,8.5,2.0,1.78
-34,9d0591b5528cb94518423d0b98163127,2024-11-30 00:40:00+00:00,Brooklyn Nets,Orlando Magic,Moe Wagner,13.5,2.0,1.78
-35,9d0591b5528cb94518423d0b98163127,2024-11-30 00:40:00+00:00,Brooklyn Nets,Orlando Magic,Tristan da Silva,6.5,2.0,1.78
-36,505781b2259d8ce45cba4e34aecf5d26,2024-11-30 00:40:00+00:00,Minnesota Timberwolves,Los Angeles Clippers,James Harden,22.5,1.94,1.83
-37,505781b2259d8ce45cba4e34aecf5d26,2024-11-30 00:40:00+00:00,Minnesota Timberwolves,Los Angeles Clippers,Ivica Zubac,14.5,1.82,1.96
-38,505781b2259d8ce45cba4e34aecf5d26,2024-11-30 00:40:00+00:00,Minnesota Timberwolves,Los Angeles Clippers,Derrick Jones,9.5,2.0,1.78
-39,505781b2259d8ce45cba4e34aecf5d26,2024-11-30 00:40:00+00:00,Minnesota Timberwolves,Los Angeles Clippers,Norman Powell,18.5,1.83,1.94
-40,505781b2259d8ce45cba4e34aecf5d26,2024-11-30 00:40:00+00:00,Minnesota Timberwolves,Los Angeles Clippers,Anthony Edwards,26.5,1.96,1.82
-41,505781b2259d8ce45cba4e34aecf5d26,2024-11-30 00:40:00+00:00,Minnesota Timberwolves,Los Angeles Clippers,Terance Mann,6.5,1.98,1.8
-42,505781b2259d8ce45cba4e34aecf5d26,2024-11-30 00:40:00+00:00,Minnesota Timberwolves,Los Angeles Clippers,Naz Reid,11.5,1.78,2.0
-43,505781b2259d8ce45cba4e34aecf5d26,2024-11-30 00:40:00+00:00,Minnesota Timberwolves,Los Angeles Clippers,Rudy Gobert,9.5,1.9,1.87
-44,505781b2259d8ce45cba4e34aecf5d26,2024-11-30 00:40:00+00:00,Minnesota Timberwolves,Los Angeles Clippers,Donte DiVincenzo,9.5,1.87,1.9
-45,505781b2259d8ce45cba4e34aecf5d26,2024-11-30 00:40:00+00:00,Minnesota Timberwolves,Los Angeles Clippers,Kris Dunn,6.5,1.83,1.94
-46,505781b2259d8ce45cba4e34aecf5d26,2024-11-30 00:40:00+00:00,Minnesota Timberwolves,Los Angeles Clippers,Jaden McDaniels,10.5,1.87,1.9
-47,505781b2259d8ce45cba4e34aecf5d26,2024-11-30 00:40:00+00:00,Minnesota Timberwolves,Los Angeles Clippers,Julius Randle,21.5,2.0,1.78
-48,505781b2259d8ce45cba4e34aecf5d26,2024-11-30 00:40:00+00:00,Minnesota Timberwolves,Los Angeles Clippers,Mike Conley,9.5,1.98,1.8
-49,97daad0d675ac67ead333551dac221e7,2024-11-30 01:10:00+00:00,Chicago Bulls,Boston Celtics,Coby White,16.5,1.88,1.88
-50,97daad0d675ac67ead333551dac221e7,2024-11-30 01:10:00+00:00,Chicago Bulls,Boston Celtics,Jaylen Brown,24.5,2.04,1.76
-51,97daad0d675ac67ead333551dac221e7,2024-11-30 01:10:00+00:00,Chicago Bulls,Boston Celtics,Lonzo Ball,4.5,1.77,2.02
-52,97daad0d675ac67ead333551dac221e7,2024-11-30 01:10:00+00:00,Chicago Bulls,Boston Celtics,Derrick White,15.5,2.02,1.77
-53,97daad0d675ac67ead333551dac221e7,2024-11-30 01:10:00+00:00,Chicago Bulls,Boston Celtics,Jrue Holiday,10.5,1.9,1.87
-54,97daad0d675ac67ead333551dac221e7,2024-11-30 01:10:00+00:00,Chicago Bulls,Boston Celtics,Josh Giddey,11.5,1.88,1.88
-55,97daad0d675ac67ead333551dac221e7,2024-11-30 01:10:00+00:00,Chicago Bulls,Boston Celtics,Ayo Dosunmu,13.5,1.94,1.83
-56,97daad0d675ac67ead333551dac221e7,2024-11-30 01:10:00+00:00,Chicago Bulls,Boston Celtics,Nikola Vucevic,18.5,1.94,1.83
-57,97daad0d675ac67ead333551dac221e7,2024-11-30 01:10:00+00:00,Chicago Bulls,Boston Celtics,Matas Buzelis,7.5,1.87,1.9
-58,97daad0d675ac67ead333551dac221e7,2024-11-30 01:10:00+00:00,Chicago Bulls,Boston Celtics,Jayson Tatum,26.5,1.98,1.8
-59,97daad0d675ac67ead333551dac221e7,2024-11-30 01:10:00+00:00,Chicago Bulls,Boston Celtics,Zach LaVine,21.5,2.0,1.78
-60,962ea9850dad2028b34dc93947a626a7,2024-11-30 01:10:00+00:00,Indiana Pacers,Detroit Pistons,Jalen Duren,9.5,1.8,1.98
-61,962ea9850dad2028b34dc93947a626a7,2024-11-30 01:10:00+00:00,Indiana Pacers,Detroit Pistons,Pascal Siakam,21.5,1.83,1.94
-62,962ea9850dad2028b34dc93947a626a7,2024-11-30 01:10:00+00:00,Indiana Pacers,Detroit Pistons,Tim Hardaway Jr,10.5,1.78,2.0
-63,962ea9850dad2028b34dc93947a626a7,2024-11-30 01:10:00+00:00,Indiana Pacers,Detroit Pistons,Tyrese Haliburton,18.5,1.9300000000000002,1.85
-64,962ea9850dad2028b34dc93947a626a7,2024-11-30 01:10:00+00:00,Indiana Pacers,Detroit Pistons,Malik Beasley,14.5,1.9300000000000002,1.85
-65,962ea9850dad2028b34dc93947a626a7,2024-11-30 01:10:00+00:00,Indiana Pacers,Detroit Pistons,Cade Cunningham,22.5,1.9,1.87
-66,962ea9850dad2028b34dc93947a626a7,2024-11-30 01:10:00+00:00,Indiana Pacers,Detroit Pistons,Myles Turner,16.5,1.88,1.88
-67,962ea9850dad2028b34dc93947a626a7,2024-11-30 01:10:00+00:00,Indiana Pacers,Detroit Pistons,Obi Toppin,7.5,1.85,1.9300000000000002
-68,962ea9850dad2028b34dc93947a626a7,2024-11-30 01:10:00+00:00,Indiana Pacers,Detroit Pistons,Tobias Harris,13.5,1.83,1.94
-69,962ea9850dad2028b34dc93947a626a7,2024-11-30 01:10:00+00:00,Indiana Pacers,Detroit Pistons,Jaden Ivey,18.5,1.82,1.96
-70,962ea9850dad2028b34dc93947a626a7,2024-11-30 01:10:00+00:00,Indiana Pacers,Detroit Pistons,T.J. McConnell,9.5,1.88,1.88
-71,962ea9850dad2028b34dc93947a626a7,2024-11-30 01:10:00+00:00,Indiana Pacers,Detroit Pistons,Bennedict Mathurin,18.5,1.87,1.9300000000000002
-72,f3facf03d0bcded5d8f4c868ad2cae58,2024-11-30 01:10:00+00:00,Miami Heat,Toronto Raptors,Tyler Herro,22.5,1.9300000000000002,1.85
-73,f3facf03d0bcded5d8f4c868ad2cae58,2024-11-30 01:10:00+00:00,Miami Heat,Toronto Raptors,Terry Rozier,9.5,1.9300000000000002,1.85
-74,f3facf03d0bcded5d8f4c868ad2cae58,2024-11-30 01:10:00+00:00,Miami Heat,Toronto Raptors,Bam Adebayo,17.5,1.98,1.8
-75,f3facf03d0bcded5d8f4c868ad2cae58,2024-11-30 01:10:00+00:00,Miami Heat,Toronto Raptors,Scottie Barnes,19.5,1.83,1.94
-76,f3facf03d0bcded5d8f4c868ad2cae58,2024-11-30 01:10:00+00:00,Miami Heat,Toronto Raptors,Jakob Poeltl,13.5,1.9300000000000002,1.87
-77,f3facf03d0bcded5d8f4c868ad2cae58,2024-11-30 01:10:00+00:00,Miami Heat,Toronto Raptors,R.J. Barrett,20.5,1.96,1.82
-78,f3facf03d0bcded5d8f4c868ad2cae58,2024-11-30 01:10:00+00:00,Miami Heat,Toronto Raptors,Ochai Agbaji,9.5,1.98,1.8
-79,f3facf03d0bcded5d8f4c868ad2cae58,2024-11-30 01:10:00+00:00,Miami Heat,Toronto Raptors,Jaime Jaquez Jr,7.5,2.0,1.78
-80,f3facf03d0bcded5d8f4c868ad2cae58,2024-11-30 01:10:00+00:00,Miami Heat,Toronto Raptors,Duncan Robinson,10.5,1.77,2.02
-81,f3facf03d0bcded5d8f4c868ad2cae58,2024-11-30 01:10:00+00:00,Miami Heat,Toronto Raptors,Jimmy Butler,18.5,1.88,1.88
-82,363cc300fd430fdf4510ff652bc54ef7,2024-11-30 03:10:00+00:00,Los Angeles Lakers,Oklahoma City Thunder,Jalen Williams,22.5,1.94,1.83
-83,363cc300fd430fdf4510ff652bc54ef7,2024-11-30 03:10:00+00:00,Los Angeles Lakers,Oklahoma City Thunder,Shai Gilgeous-Alexander,30.5,1.96,1.82
-84,363cc300fd430fdf4510ff652bc54ef7,2024-11-30 03:10:00+00:00,Los Angeles Lakers,Oklahoma City Thunder,Isaiah Hartenstein,11.5,1.9,1.87
-85,363cc300fd430fdf4510ff652bc54ef7,2024-11-30 03:10:00+00:00,Los Angeles Lakers,Oklahoma City Thunder,Rui Hachimura,9.5,1.87,1.9
-86,363cc300fd430fdf4510ff652bc54ef7,2024-11-30 03:10:00+00:00,Los Angeles Lakers,Oklahoma City Thunder,LeBron James,21.5,1.87,1.9
-87,363cc300fd430fdf4510ff652bc54ef7,2024-11-30 03:10:00+00:00,Los Angeles Lakers,Oklahoma City Thunder,Anthony Davis,25.5,1.82,1.96
-88,363cc300fd430fdf4510ff652bc54ef7,2024-11-30 03:10:00+00:00,Los Angeles Lakers,Oklahoma City Thunder,Dalton Knecht,13.5,1.88,1.88
-89,363cc300fd430fdf4510ff652bc54ef7,2024-11-30 03:10:00+00:00,Los Angeles Lakers,Oklahoma City Thunder,Luguentz Dort,9.5,1.88,1.88
-90,363cc300fd430fdf4510ff652bc54ef7,2024-11-30 03:10:00+00:00,Los Angeles Lakers,Oklahoma City Thunder,D'Angelo Russell,12.5,2.06,1.74
-91,363cc300fd430fdf4510ff652bc54ef7,2024-11-30 03:10:00+00:00,Los Angeles Lakers,Oklahoma City Thunder,Austin Reaves,15.5,1.9300000000000002,1.85
-92,ced44c7cacce1e7ddc97f529434326b6,2024-11-30 03:10:00+00:00,Portland Trail Blazers,Sacramento Kings,Deni Avdija,12.5,1.77,2.02
-93,ced44c7cacce1e7ddc97f529434326b6,2024-11-30 03:10:00+00:00,Portland Trail Blazers,Sacramento Kings,Kevin Huerter,7.5,1.82,1.96
-94,ced44c7cacce1e7ddc97f529434326b6,2024-11-30 03:10:00+00:00,Portland Trail Blazers,Sacramento Kings,De'Aaron Fox,29.5,1.98,1.78
-95,ced44c7cacce1e7ddc97f529434326b6,2024-11-30 03:10:00+00:00,Portland Trail Blazers,Sacramento Kings,Shaedon Sharpe,18.5,1.98,1.8
-96,ced44c7cacce1e7ddc97f529434326b6,2024-11-30 03:10:00+00:00,Portland Trail Blazers,Sacramento Kings,Keegan Murray,14.5,1.85,1.9300000000000002
-97,ced44c7cacce1e7ddc97f529434326b6,2024-11-30 03:10:00+00:00,Portland Trail Blazers,Sacramento Kings,Scoot Henderson,11.5,1.8,1.98
-98,ced44c7cacce1e7ddc97f529434326b6,2024-11-30 03:10:00+00:00,Portland Trail Blazers,Sacramento Kings,Domantas Sabonis,21.5,1.96,1.82
-99,ced44c7cacce1e7ddc97f529434326b6,2024-11-30 03:10:00+00:00,Portland Trail Blazers,Sacramento Kings,Deandre Ayton,15.5,1.9,1.87
-100,ced44c7cacce1e7ddc97f529434326b6,2024-11-30 03:10:00+00:00,Portland Trail Blazers,Sacramento Kings,Keon Ellis,7.5,1.78,1.98
-101,ced44c7cacce1e7ddc97f529434326b6,2024-11-30 03:10:00+00:00,Portland Trail Blazers,Sacramento Kings,Toumani Camara,8.5,1.9300000000000002,1.85
-102,ced44c7cacce1e7ddc97f529434326b6,2024-11-30 03:10:00+00:00,Portland Trail Blazers,Sacramento Kings,Anfernee Simons,21.5,1.98,1.8
+0,cc7e0e6b1a36a1ac19c0d74550479f67,2024-12-07 00:10:00+00:00,Philadelphia 76ers,Orlando Magic,Franz Wagner,27.5,1.98,1.8
+1,cc7e0e6b1a36a1ac19c0d74550479f67,2024-12-07 00:10:00+00:00,Philadelphia 76ers,Orlando Magic,Kentavious Caldwell-Pope,8.5,1.9,1.87
+2,cc7e0e6b1a36a1ac19c0d74550479f67,2024-12-07 00:10:00+00:00,Philadelphia 76ers,Orlando Magic,Tyrese Maxey,23.5,1.82,1.96
+3,cc7e0e6b1a36a1ac19c0d74550479f67,2024-12-07 00:10:00+00:00,Philadelphia 76ers,Orlando Magic,Jonathan Isaac,6.5,2.0,1.78
+4,cc7e0e6b1a36a1ac19c0d74550479f67,2024-12-07 00:10:00+00:00,Philadelphia 76ers,Orlando Magic,Anthony Black,7.5,1.98,1.8
+5,cc7e0e6b1a36a1ac19c0d74550479f67,2024-12-07 00:10:00+00:00,Philadelphia 76ers,Orlando Magic,Goga Bitadze,8.5,1.88,1.88
+6,cc7e0e6b1a36a1ac19c0d74550479f67,2024-12-07 00:10:00+00:00,Philadelphia 76ers,Orlando Magic,Moe Wagner,12.5,1.96,1.82
+7,cc7e0e6b1a36a1ac19c0d74550479f67,2024-12-07 00:10:00+00:00,Philadelphia 76ers,Orlando Magic,Guerschon Yabusele,9.5,1.78,2.0
+8,cc7e0e6b1a36a1ac19c0d74550479f67,2024-12-07 00:10:00+00:00,Philadelphia 76ers,Orlando Magic,Kelly Oubre Jr,10.5,1.82,1.96
+9,cc7e0e6b1a36a1ac19c0d74550479f67,2024-12-07 00:10:00+00:00,Philadelphia 76ers,Orlando Magic,Paul George,18.5,2.02,1.77
+10,cc7e0e6b1a36a1ac19c0d74550479f67,2024-12-07 00:10:00+00:00,Philadelphia 76ers,Orlando Magic,Wendell Carter Jr,8.5,1.96,1.82
+11,cc7e0e6b1a36a1ac19c0d74550479f67,2024-12-07 00:10:00+00:00,Philadelphia 76ers,Orlando Magic,Jalen Suggs,15.5,1.87,1.9
+12,054686aafaf26a3a9c0cb2d3f85f7e1a,2024-12-07 00:40:00+00:00,Atlanta Hawks,Los Angeles Lakers,Anthony Davis,28.5,1.98,1.8
+13,054686aafaf26a3a9c0cb2d3f85f7e1a,2024-12-07 00:40:00+00:00,Atlanta Hawks,Los Angeles Lakers,Clint Capela,9.5,1.88,1.88
+14,054686aafaf26a3a9c0cb2d3f85f7e1a,2024-12-07 00:40:00+00:00,Atlanta Hawks,Los Angeles Lakers,D'Angelo Russell,16.5,1.9300000000000002,1.85
+15,054686aafaf26a3a9c0cb2d3f85f7e1a,2024-12-07 00:40:00+00:00,Atlanta Hawks,Los Angeles Lakers,Rui Hachimura,11.5,1.78,2.0
+16,054686aafaf26a3a9c0cb2d3f85f7e1a,2024-12-07 00:40:00+00:00,Atlanta Hawks,Los Angeles Lakers,Trae Young,20.5,2.02,1.77
+17,054686aafaf26a3a9c0cb2d3f85f7e1a,2024-12-07 00:40:00+00:00,Atlanta Hawks,Los Angeles Lakers,Jalen Johnson,20.5,2.0,1.78
+18,054686aafaf26a3a9c0cb2d3f85f7e1a,2024-12-07 00:40:00+00:00,Atlanta Hawks,Los Angeles Lakers,Dalton Knecht,13.5,1.8,1.98
+19,054686aafaf26a3a9c0cb2d3f85f7e1a,2024-12-07 00:40:00+00:00,Atlanta Hawks,Los Angeles Lakers,Dyson Daniels,10.5,1.82,1.96
+20,054686aafaf26a3a9c0cb2d3f85f7e1a,2024-12-07 00:40:00+00:00,Atlanta Hawks,Los Angeles Lakers,LeBron James,22.5,1.98,1.8
+21,054686aafaf26a3a9c0cb2d3f85f7e1a,2024-12-07 00:40:00+00:00,Atlanta Hawks,Los Angeles Lakers,Zaccharie Risacher,11.5,1.98,1.8
+22,777d86c37951e9c17d4b0c10571de4c0,2024-12-07 00:40:00+00:00,Boston Celtics,Milwaukee Bucks,Khris Middleton,9.5,1.98,1.8
+23,777d86c37951e9c17d4b0c10571de4c0,2024-12-07 00:40:00+00:00,Boston Celtics,Milwaukee Bucks,Brook Lopez,9.5,1.87,1.9
+24,777d86c37951e9c17d4b0c10571de4c0,2024-12-07 00:40:00+00:00,Boston Celtics,Milwaukee Bucks,Damian Lillard,23.5,1.82,1.96
+25,777d86c37951e9c17d4b0c10571de4c0,2024-12-07 00:40:00+00:00,Boston Celtics,Milwaukee Bucks,Jayson Tatum,27.5,1.98,1.8
+26,777d86c37951e9c17d4b0c10571de4c0,2024-12-07 00:40:00+00:00,Boston Celtics,Milwaukee Bucks,Giannis Antetokounmpo,30.5,1.88,1.88
+27,2a9e5dccbd62f770ab94b927a2861f5b,2024-12-07 01:10:00+00:00,Chicago Bulls,Indiana Pacers,Myles Turner,16.5,1.82,1.96
+28,2a9e5dccbd62f770ab94b927a2861f5b,2024-12-07 01:10:00+00:00,Chicago Bulls,Indiana Pacers,Josh Giddey,12.5,1.9300000000000002,1.85
+29,2a9e5dccbd62f770ab94b927a2861f5b,2024-12-07 01:10:00+00:00,Chicago Bulls,Indiana Pacers,Zach LaVine,22.5,1.85,1.9300000000000002
+30,2a9e5dccbd62f770ab94b927a2861f5b,2024-12-07 01:10:00+00:00,Chicago Bulls,Indiana Pacers,Tyrese Haliburton,19.5,1.78,2.0
+31,2a9e5dccbd62f770ab94b927a2861f5b,2024-12-07 01:10:00+00:00,Chicago Bulls,Indiana Pacers,Nikola Vucevic,21.5,1.96,1.82
+32,2a9e5dccbd62f770ab94b927a2861f5b,2024-12-07 01:10:00+00:00,Chicago Bulls,Indiana Pacers,Pascal Siakam,22.5,1.88,1.88
+33,2a9e5dccbd62f770ab94b927a2861f5b,2024-12-07 01:10:00+00:00,Chicago Bulls,Indiana Pacers,Bennedict Mathurin,19.5,1.94,1.83
+34,77eeb214cb14729b743e125373a73f04,2024-12-07 01:10:00+00:00,San Antonio Spurs,Sacramento Kings,Stephon Castle,12.5,1.87,1.9
+35,77eeb214cb14729b743e125373a73f04,2024-12-07 01:10:00+00:00,San Antonio Spurs,Sacramento Kings,DeMar DeRozan,22.5,1.96,1.82
+36,77eeb214cb14729b743e125373a73f04,2024-12-07 01:10:00+00:00,San Antonio Spurs,Sacramento Kings,De'Aaron Fox,23.5,1.9,1.87
+37,77eeb214cb14729b743e125373a73f04,2024-12-07 01:10:00+00:00,San Antonio Spurs,Sacramento Kings,Domantas Sabonis,19.5,1.88,1.88
+38,77eeb214cb14729b743e125373a73f04,2024-12-07 01:10:00+00:00,San Antonio Spurs,Sacramento Kings,Keegan Murray,11.5,1.77,2.02
+39,77eeb214cb14729b743e125373a73f04,2024-12-07 01:10:00+00:00,San Antonio Spurs,Sacramento Kings,Malik Monk,16.5,1.87,1.9
+40,77eeb214cb14729b743e125373a73f04,2024-12-07 01:10:00+00:00,San Antonio Spurs,Sacramento Kings,Julian Champagnie,11.5,1.83,1.94
+41,77eeb214cb14729b743e125373a73f04,2024-12-07 01:10:00+00:00,San Antonio Spurs,Sacramento Kings,Harrison Barnes,11.5,1.8,1.98
+42,77eeb214cb14729b743e125373a73f04,2024-12-07 01:10:00+00:00,San Antonio Spurs,Sacramento Kings,Chris Paul,10.5,2.02,1.77
+43,8da11d2f43b74f5a290662bef25077b6,2024-12-07 03:10:00+00:00,Golden State Warriors,Minnesota Timberwolves,Jaden McDaniels,9.5,1.87,1.9
+44,8da11d2f43b74f5a290662bef25077b6,2024-12-07 03:10:00+00:00,Golden State Warriors,Minnesota Timberwolves,Julius Randle,19.5,1.98,1.8
+45,8da11d2f43b74f5a290662bef25077b6,2024-12-07 03:10:00+00:00,Golden State Warriors,Minnesota Timberwolves,Rudy Gobert,10.5,2.0,1.78
+46,8da11d2f43b74f5a290662bef25077b6,2024-12-07 03:10:00+00:00,Golden State Warriors,Minnesota Timberwolves,Donte DiVincenzo,7.5,1.78,1.98
+47,8da11d2f43b74f5a290662bef25077b6,2024-12-07 03:10:00+00:00,Golden State Warriors,Minnesota Timberwolves,Stephen Curry,23.5,1.9,1.87
+48,8da11d2f43b74f5a290662bef25077b6,2024-12-07 03:10:00+00:00,Golden State Warriors,Minnesota Timberwolves,Mike Conley,9.5,1.96,1.82
+49,8da11d2f43b74f5a290662bef25077b6,2024-12-07 03:10:00+00:00,Golden State Warriors,Minnesota Timberwolves,Jonathan Kuminga,14.5,1.78,2.0
+50,8da11d2f43b74f5a290662bef25077b6,2024-12-07 03:10:00+00:00,Golden State Warriors,Minnesota Timberwolves,Naz Reid,12.5,2.0,1.78
+51,8da11d2f43b74f5a290662bef25077b6,2024-12-07 03:10:00+00:00,Golden State Warriors,Minnesota Timberwolves,Brandin Podziemski,8.5,1.83,1.94
+52,8da11d2f43b74f5a290662bef25077b6,2024-12-07 03:10:00+00:00,Golden State Warriors,Minnesota Timberwolves,Anthony Edwards,24.5,1.88,1.88
+53,8da11d2f43b74f5a290662bef25077b6,2024-12-07 03:10:00+00:00,Golden State Warriors,Minnesota Timberwolves,Draymond Green,8.5,1.98,1.8
+54,7e9b9a80be69537fba4e661ad6475a08,2024-12-07 03:10:00+00:00,Portland Trail Blazers,Utah Jazz,Anfernee Simons,20.5,1.94,1.83
+55,7e9b9a80be69537fba4e661ad6475a08,2024-12-07 03:10:00+00:00,Portland Trail Blazers,Utah Jazz,Keyonte George,14.5,1.77,2.02
+56,7e9b9a80be69537fba4e661ad6475a08,2024-12-07 03:10:00+00:00,Portland Trail Blazers,Utah Jazz,Deandre Ayton,16.5,2.02,1.77
+57,7e9b9a80be69537fba4e661ad6475a08,2024-12-07 03:10:00+00:00,Portland Trail Blazers,Utah Jazz,Lauri Markkanen,20.5,1.88,1.88
+58,7e9b9a80be69537fba4e661ad6475a08,2024-12-07 03:10:00+00:00,Portland Trail Blazers,Utah Jazz,Shaedon Sharpe,17.5,1.87,1.9
+59,7e9b9a80be69537fba4e661ad6475a08,2024-12-07 03:10:00+00:00,Portland Trail Blazers,Utah Jazz,Walker Kessler,10.5,1.88,1.88
+60,7e9b9a80be69537fba4e661ad6475a08,2024-12-07 03:10:00+00:00,Portland Trail Blazers,Utah Jazz,Jerami Grant,14.5,1.87,1.9
+61,7e9b9a80be69537fba4e661ad6475a08,2024-12-07 03:10:00+00:00,Portland Trail Blazers,Utah Jazz,Toumani Camara,9.5,1.96,1.82
+62,7e9b9a80be69537fba4e661ad6475a08,2024-12-07 03:10:00+00:00,Portland Trail Blazers,Utah Jazz,John Collins,16.5,1.82,1.96
