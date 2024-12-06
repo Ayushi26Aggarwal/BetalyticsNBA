@@ -1,5 +1,12 @@
 ,id,commence_time,home_team,away_team,Player Name,point,over price,under price
-0,75b64ab4b7b899475e75f3c3fed6e6d6,2024-11-29 17:10:00+00:00,Charlotte Hornets,New York Knicks,LaMelo Ball,1.5,2.64,1.47
-1,75b64ab4b7b899475e75f3c3fed6e6d6,2024-11-29 17:10:00+00:00,Charlotte Hornets,New York Knicks,Josh Hart,1.5,2.4,1.56
-2,75b64ab4b7b899475e75f3c3fed6e6d6,2024-11-29 17:10:00+00:00,Charlotte Hornets,New York Knicks,OG Anunoby,1.5,2.2,1.65
-3,75b64ab4b7b899475e75f3c3fed6e6d6,2024-11-29 17:10:00+00:00,Charlotte Hornets,New York Knicks,Brandon Miller,1.5,2.2800000000000002,1.6099999999999999
+0,cc7e0e6b1a36a1ac19c0d74550479f67,2024-12-07 00:10:00+00:00,Philadelphia 76ers,Orlando Magic,Jalen Suggs,1.5,2.2800000000000002,1.6099999999999999
+1,cc7e0e6b1a36a1ac19c0d74550479f67,2024-12-07 00:10:00+00:00,Philadelphia 76ers,Orlando Magic,Tyrese Maxey,1.5,2.2,1.65
+2,cc7e0e6b1a36a1ac19c0d74550479f67,2024-12-07 00:10:00+00:00,Philadelphia 76ers,Orlando Magic,Kentavious Caldwell-Pope,1.5,2.5,1.52
+3,cc7e0e6b1a36a1ac19c0d74550479f67,2024-12-07 00:10:00+00:00,Philadelphia 76ers,Orlando Magic,Franz Wagner,1.5,1.96,1.82
+4,cc7e0e6b1a36a1ac19c0d74550479f67,2024-12-07 00:10:00+00:00,Philadelphia 76ers,Orlando Magic,Paul George,1.5,2.2,1.65
+5,054686aafaf26a3a9c0cb2d3f85f7e1a,2024-12-07 00:40:00+00:00,Atlanta Hawks,Los Angeles Lakers,Jalen Johnson,1.5,2.8,1.43
+6,054686aafaf26a3a9c0cb2d3f85f7e1a,2024-12-07 00:40:00+00:00,Atlanta Hawks,Los Angeles Lakers,Dyson Daniels,2.5,2.18,1.67
+7,2a9e5dccbd62f770ab94b927a2861f5b,2024-12-07 01:10:00+00:00,Chicago Bulls,Indiana Pacers,Pascal Siakam,1.5,3.0,1.38
+8,2a9e5dccbd62f770ab94b927a2861f5b,2024-12-07 01:10:00+00:00,Chicago Bulls,Indiana Pacers,Tyrese Haliburton,1.5,2.4,1.56
+9,77eeb214cb14729b743e125373a73f04,2024-12-07 01:10:00+00:00,San Antonio Spurs,Sacramento Kings,DeMar DeRozan,1.5,2.5,1.52
+10,77eeb214cb14729b743e125373a73f04,2024-12-07 01:10:00+00:00,San Antonio Spurs,Sacramento Kings,De'Aaron Fox,1.5,1.74,2.06
